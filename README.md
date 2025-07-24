@@ -1,7 +1,7 @@
 # QBCore / Qbox Commend System
 
 A lightweight and modular script for QBCore-based servers (Qbox compatible) that allows admins to commend players for good behavior, immersive RP, or meaningful contributions. Uses `ox_lib` for notifications, menus, and optional logging.
-
+https://discord.gg/Bx22Trwsd2
 ---
 
 ## 🚀 Features
