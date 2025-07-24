@@ -10,7 +10,6 @@ A lightweight and modular script for QBCore-based servers (Qbox compatible) that
 - 📣 **Global Chat Notifications** when a player is commended  
 - 📊 **Leaderboard UI** showing most commended players  
 - 💾 **Persistent Storage** using player identifiers (citizenid)  
-- ⏳ **Cooldown System** to prevent spam  
 - 📝 **Optional Logging** to Discord or file  
 - 🎨 **ox_lib UI** for viewing commend history and leaderboard  
 
